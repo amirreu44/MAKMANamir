@@ -1,5 +1,5 @@
-:HL["/MAKMANamir/_next/static/chunks/3964b9tg141gy.css","style"]
+:HL["/MAKMANamir/_next/static/chunks/1vlfd-tg60rxf.css","style"]
 :HL["/MAKMANamir/_next/static/media/perahsloweng-s.p.0_wmu381fk3k6.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["studio"]},"h":48,"c":"$Q2"}]]
-0:{"b":"BzjeaptSfmWcL4b1WuS3h","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"mZvNWGkl0TXfPiUxfuxDd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

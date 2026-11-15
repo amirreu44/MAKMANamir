@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/1rj5woz13ktqy.css","style"]
+:HL["/_next/static/media/perahsloweng-s.p.0_wmu381fk3k6.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"mak-2026-022","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"artwork","h":64,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["studio"]},"h":48,"c":"$Q2"}]]
+0:{"b":"CTkgy_t_RJgsaAKE6CQf_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

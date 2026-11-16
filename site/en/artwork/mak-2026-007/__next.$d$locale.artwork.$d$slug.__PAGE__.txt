@@ -2,16 +2,16 @@
 4:"/MAKMANamir/_next/static/chunks/3qfy96eoyh-ek.js"
 5:I[39756,["$4"],"default"]
 6:I[37457,["$4"],"default"]
-d:"/MAKMANamir/_next/static/chunks/1cu9cxkia2308.js"
-e:"/MAKMANamir/_next/static/chunks/0i5bfd_ablzlx.js"
-f:"/MAKMANamir/_next/static/chunks/3zgy0-7lz3ovw.js"
-10:I[25447,["$d","$e","$f"],"VisualBlock"]
-11:I[98370,["$d","$e","$f"],"MotionImage"]
-12:I[22883,["$d","$e","$f"],"VisualText"]
+d:"/MAKMANamir/_next/static/chunks/2co50076z65is.js"
+e:"/MAKMANamir/_next/static/chunks/07v9iay7l4j93.js"
+f:"/MAKMANamir/_next/static/chunks/150zc_hmhc4vi.js"
+10:I[82641,["$d","$e","$f"],"VisualBlock"]
+11:I[87838,["$d","$e","$f"],"MotionImage"]
+12:I[29252,["$d","$e","$f"],"VisualText"]
 13:"$Sreact.suspense"
 14:I[22016,["$d","$e","$f"],""]
 15:"ArtworkNavigation"
-16:I[70818,["$d","$e","$f"],"$15"]
+16:I[76942,["$d","$e","$f"],"$15"]
 1a:"ViewportBoundary"
 1b:I[97367,["$4"],"$1a"]
 1c:"MetadataBoundary"
@@ -23,9 +23,9 @@ c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$"
 a:[["children",{"s":{"n":"slug","t":"d","k":"mak-2026-007","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
 2:[["children",{"s":"artwork","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["studio"]},"h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Fallen arrow · MAKMAN@ -  Amir Reuven "}],["$","meta","1",{"name":"description","content":"2024 · Acrylic and oil pastel on canvas · 70 × 70 cm"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2026-007/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2026-007/"}],["$","meta","5",{"property":"og:title","content":"Fallen arrow"}],["$","meta","6",{"property":"og:description","content":"2024 · Acrylic and oil pastel on canvas · 70 × 70 cm"}],["$","meta","7",{"property":"og:url","content":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2026-007/"}],["$","meta","8",{"property":"og:locale","content":"en"}],["$","meta","9",{"property":"og:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/7.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Fallen arrow"}],["$","meta","13",{"name":"twitter:description","content":"2024 · Acrylic and oil pastel on canvas · 70 × 70 cm"}],["$","meta","14",{"name":"twitter:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/7.jpg"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$9"}},"a":"$@1f","u":"$@20","b":"Ww-yDtSuIAqgwpyTAvjUN"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Fallen arrow · MAKMAN@ -  Amir Reuven "}],["$","meta","1",{"name":"description","content":"2024 · Acrylic and oil pastel on canvas · 70 × 70 cm"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2026-007/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2026-007/"}],["$","meta","5",{"property":"og:title","content":"Fallen arrow"}],["$","meta","6",{"property":"og:description","content":"2024 · Acrylic and oil pastel on canvas · 70 × 70 cm"}],["$","meta","7",{"property":"og:url","content":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2026-007/"}],["$","meta","8",{"property":"og:locale","content":"en"}],["$","meta","9",{"property":"og:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/7.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Fallen arrow"}],["$","meta","13",{"name":"twitter:description","content":"2024 · Acrylic and oil pastel on canvas · 70 × 70 cm"}],["$","meta","14",{"name":"twitter:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/7.jpg"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$9"}},"a":"$@1f","u":"$@20","b":"Xxmlie6dVqXE9QZtJcM6N"}
 21:I[97367,["$4"],"OutletBoundary"]
-17:["$","script","script-0",{"src":"/MAKMANamir/_next/static/chunks/3zgy0-7lz3ovw.js","async":true}]
+17:["$","script","script-0",{"src":"/MAKMANamir/_next/static/chunks/150zc_hmhc4vi.js","async":true}]
 18:["$","$L21",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
 20:true
 9:300

@@ -2,16 +2,16 @@
 4:"/MAKMANamir/_next/static/chunks/3qfy96eoyh-ek.js"
 5:I[39756,["$4"],"default"]
 6:I[37457,["$4"],"default"]
-d:"/MAKMANamir/_next/static/chunks/1vy5lezljid3v.js"
-e:"/MAKMANamir/_next/static/chunks/346tm_w_3_zy_.js"
-f:"/MAKMANamir/_next/static/chunks/1pzech79wda8a.js"
-10:I[24238,["$d","$e","$f"],"VisualBlock"]
-11:I[45959,["$d","$e","$f"],"MotionImage"]
-12:I[9771,["$d","$e","$f"],"VisualText"]
+d:"/MAKMANamir/_next/static/chunks/1bp-hru5tnd3m.js"
+e:"/MAKMANamir/_next/static/chunks/2uzjfiw0sekwh.js"
+f:"/MAKMANamir/_next/static/chunks/1sq58w-nt8g82.js"
+10:I[23707,["$d","$e","$f"],"VisualBlock"]
+11:I[46165,["$d","$e","$f"],"MotionImage"]
+12:I[99153,["$d","$e","$f"],"VisualText"]
 13:"$Sreact.suspense"
 14:I[22016,["$d","$e","$f"],""]
 15:"ArtworkNavigation"
-16:I[16250,["$d","$e","$f"],"$15"]
+16:I[73220,["$d","$e","$f"],"$15"]
 1a:"ViewportBoundary"
 1b:I[97367,["$4"],"$1a"]
 1c:"MetadataBoundary"
@@ -23,9 +23,9 @@ c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$"
 a:[["children",{"s":{"n":"slug","t":"d","k":"mak-2024-012","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
 2:[["children",{"s":"artwork","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["studio"]},"h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"DRAKON · MAKMAN@ -  Amir Reuven "}],["$","meta","1",{"name":"description","content":"2024 · Acrylic and oil pastel on canvas · 50 × 50 cm"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2024-012/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2024-012/"}],["$","meta","5",{"property":"og:title","content":"DRAKON"}],["$","meta","6",{"property":"og:description","content":"2024 · Acrylic and oil pastel on canvas · 50 × 50 cm"}],["$","meta","7",{"property":"og:url","content":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2024-012/"}],["$","meta","8",{"property":"og:locale","content":"en"}],["$","meta","9",{"property":"og:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/8.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"DRAKON"}],["$","meta","13",{"name":"twitter:description","content":"2024 · Acrylic and oil pastel on canvas · 50 × 50 cm"}],["$","meta","14",{"name":"twitter:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/8.jpg"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$9"}},"a":"$@1f","u":"$@20","b":"9fjxJvwVrTJpySN_F3Uys"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"DRAKON · MAKMAN@ -  Amir Reuven "}],["$","meta","1",{"name":"description","content":"2024 · Acrylic and oil pastel on canvas · 50 × 50 cm"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2024-012/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2024-012/"}],["$","meta","5",{"property":"og:title","content":"DRAKON"}],["$","meta","6",{"property":"og:description","content":"2024 · Acrylic and oil pastel on canvas · 50 × 50 cm"}],["$","meta","7",{"property":"og:url","content":"https://amirreu44.github.io/MAKMANamir/en/artwork/mak-2024-012/"}],["$","meta","8",{"property":"og:locale","content":"en"}],["$","meta","9",{"property":"og:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/8.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"DRAKON"}],["$","meta","13",{"name":"twitter:description","content":"2024 · Acrylic and oil pastel on canvas · 50 × 50 cm"}],["$","meta","14",{"name":"twitter:image","content":"https://amirreu44.github.io/MAKMANamir/media/artworks/8.jpg"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$9"}},"a":"$@1f","u":"$@20","b":"jcRaLBCwJjF51i9iK8sJZ"}
 21:I[97367,["$4"],"OutletBoundary"]
-17:["$","script","script-0",{"src":"/MAKMANamir/_next/static/chunks/1pzech79wda8a.js","async":true}]
+17:["$","script","script-0",{"src":"/MAKMANamir/_next/static/chunks/1sq58w-nt8g82.js","async":true}]
 18:["$","$L21",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
 20:true
 9:300

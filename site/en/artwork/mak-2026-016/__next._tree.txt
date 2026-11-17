@@ -1,7 +1,7 @@
-:HL["/MAKMANamir/_next/static/chunks/28hwmmty2ej_r.css","style"]
+:HL["/MAKMANamir/_next/static/chunks/0lbc8b5yihe9w.css","style"]
 :HL["/MAKMANamir/_next/static/media/perahsloweng-s.p.0_wmu381fk3k6.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"mak-2026-016","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"artwork","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["studio"]},"h":48,"c":"$Q2"}]]
-0:{"b":"Qu9ntyAAKuxAslxr4m-iU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ZWZ-rKh1qtC7yyJm3lJ_C","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

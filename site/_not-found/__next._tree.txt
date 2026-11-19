@@ -1,4 +1,4 @@
-:HL["/MAKMANamir/_next/static/chunks/0mbxg_ichn2-j.css","style"]
+:HL["/MAKMANamir/_next/static/chunks/3i6wn1eftbqel.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"cRiYS6w4hvdRqjPShlz4Z","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9LRKNVyq8CyfYYM3cHN0t","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

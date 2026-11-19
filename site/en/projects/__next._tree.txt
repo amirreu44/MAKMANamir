@@ -1,6 +1,6 @@
-:HL["/MAKMANamir/_next/static/chunks/1vt0jjk2u4n8m.css","style"]
+:HL["/MAKMANamir/_next/static/chunks/0q2ptubphpdi0.css","style"]
 :HL["/MAKMANamir/_next/static/media/perahsloweng-s.p.0_wmu381fk3k6.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"section","t":"d","k":"projects","s":["artwork"]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["studio"]},"h":196656,"c":"$Q2"}]]
-0:{"b":"3-_MNXhfs1o_ZtKrSA50d","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"MxywVB3gpVusZ4wZC9iQo","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
